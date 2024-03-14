@@ -19,14 +19,20 @@ main {
 p {
     margin: 10px 0;
 }
-img {
+#ab-studio img {
     display: block;
-    width: 50%;
+    width: 80%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
 }
-
+img {
+    display: block;
+    width: 30%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
 footer {
     background-color: #b9cabf;
     color: #fff;
