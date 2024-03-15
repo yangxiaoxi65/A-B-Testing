@@ -19,13 +19,7 @@ main {
 p {
     margin: 10px 0;
 }
-#ab-studio img {
-    display: block;
-    width: 80%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 img {
     display: block;
     width: 30%;
@@ -33,6 +27,18 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+#image{
+    text-align: center;
+}
+#image img{
+    display: block;
+    width: 80%; 
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
 footer {
     background-color: #b9cabf;
     color: #fff;
